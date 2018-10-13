@@ -2,8 +2,9 @@
             Retina Slices Petri Dish whatever
             
 Designed by L. Zanneti 
-University of Insburk
+A. koschak lab, University of Innsbruck, Austria
 This project is Open Source licensed, released under CERN OHL v1.2
+
 
                                                                     */
 
